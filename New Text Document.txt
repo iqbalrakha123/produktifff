@@ -1,0 +1,1 @@
+print("Halo, ini project pertamaku di GitHub!")
